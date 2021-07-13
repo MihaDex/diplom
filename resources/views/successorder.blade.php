@@ -1,0 +1,1 @@
+@extends('layouts.layout')@section('content')    <div class="contact-area ptb-100 ptb-sm-60">        <div class="container">            <h3 class="mb-20">Спасибо за заказ!</h3>            <p class="mb-20">Менеджер свяжется с вами в близжайшее время.</p>        </div>    </div>@endsection
